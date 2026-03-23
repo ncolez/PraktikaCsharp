@@ -1,0 +1,15 @@
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\bin\Debug\net8.0\z4.exe
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\bin\Debug\net8.0\z4.deps.json
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\bin\Debug\net8.0\z4.runtimeconfig.json
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\bin\Debug\net8.0\z4.dll
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\bin\Debug\net8.0\z4.pdb
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.GeneratedMSBuildEditorConfig.editorconfig
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.AssemblyInfoInputs.cache
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.AssemblyInfo.cs
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.csproj.CoreCompileInputs.cache
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.sourcelink.json
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.dll
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\refint\z4.dll
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.pdb
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\z4.genruntimeconfig.cache
+D:\tp43\praktika_csharp_zadaniya\zanyatie(17.03)\z4\obj\Debug\net8.0\ref\z4.dll
