@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23583A60-E21F-4B8E-97B3-EB76A5BB9823}|z4\\z4.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23583A60-E21F-4B8E-97B3-EB76A5BB9823}|z4\\z4.csproj|solutionrelative:z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB34FA12-7775-4529-BB84-BA6918A10518}|z3\\z3.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB34FA12-7775-4529-BB84-BA6918A10518}|z3\\z3.csproj|solutionrelative:z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944AB346-6367-4E8C-8328-FF06F4B8C878}|z2\\z2.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944AB346-6367-4E8C-8328-FF06F4B8C878}|z2\\z2.csproj|solutionrelative:z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F545CE-0AF0-47CC-81D5-63EAD997082E}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F545CE-0AF0-47CC-81D5-63EAD997082E}|z1\\z1.csproj|solutionrelative:z1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z4\\Program.cs",
+              "RelativeDocumentMoniker": "z4\\Program.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z4\\Program.cs",
+              "RelativeToolTip": "z4\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:23:19.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z3\\Program.cs",
+              "RelativeDocumentMoniker": "z3\\Program.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z3\\Program.cs",
+              "RelativeToolTip": "z3\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:22:52.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z2\\Program.cs",
+              "RelativeDocumentMoniker": "z2\\Program.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z2\\Program.cs",
+              "RelativeToolTip": "z2\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:22:27.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z1\\Program.cs",
+              "RelativeDocumentMoniker": "z1\\Program.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(26.03)\\z1\\Program.cs",
+              "RelativeToolTip": "z1\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:08:01.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

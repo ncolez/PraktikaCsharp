@@ -1,0 +1,5 @@
+31.03.2026 10:41:07 - Renamed: new.txt -> test2.txt
+31.03.2026 10:41:15 - Deleted: test.txt
+31.03.2026 10:41:22 - Created: Текстовый документ.txt
+31.03.2026 10:41:31 - Renamed: Текстовый документ.txt -> new.txt
+31.03.2026 10:41:51 - Changed: new.txt
