@@ -1,0 +1,15 @@
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\bin\Debug\z1_variant3.exe.config
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\bin\Debug\z1_variant3.exe
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\bin\Debug\z1_variant3.pdb
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.csproj.AssemblyReference.cache
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\MainWindow.baml
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\MainWindow.g.cs
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\App.g.cs
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3_MarkupCompile.cache
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.g.resources
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.Properties.Resources.resources
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.csproj.GenerateResource.cache
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.csproj.CoreCompileInputs.cache
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.exe
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.pdb
+D:\tp43\praktika_csharp_zadaniya\zanyatie(30.03)\z1_variant3\obj\Debug\z1_variant3.exe.config

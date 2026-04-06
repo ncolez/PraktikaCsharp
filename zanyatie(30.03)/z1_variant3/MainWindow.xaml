@@ -1,0 +1,68 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Электронный дневник студента" Height="550" Width="800">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Электронный дневник студента" FontSize="20" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,15"/>
+
+        <TabControl Grid.Row="1">
+            <TabItem Header="Расписание занятий">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Расписание на неделю" FontSize="16" FontWeight="Bold" 
+                               Margin="0,0,0,10"/>
+
+                    <DataGrid x:Name="ScheduleGrid" Grid.Row="1" AutoGenerateColumns="True" 
+                              IsReadOnly="True"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Оценки">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Список предметов и оценки" FontSize="16" FontWeight="Bold" 
+                               Margin="0,0,0,10"/>
+
+                    <DataGrid x:Name="GradesGrid" Grid.Row="1" AutoGenerateColumns="True" 
+                              Margin="0,0,0,10" Height="200"/>
+
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,10,0,0">
+                        <TextBlock Text="Предмет:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                        <ComboBox x:Name="SubjectCombo" Width="150" Margin="0,0,20,0"/>
+                        <TextBlock Text="Оценка:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                        <ComboBox x:Name="GradeCombo" Width="60" Margin="0,0,20,0">
+                            <ComboBoxItem Content="1"/>
+                            <ComboBoxItem Content="2"/>
+                            <ComboBoxItem Content="3"/>
+                            <ComboBoxItem Content="4"/>
+                            <ComboBoxItem Content="5"/>
+                            <ComboBoxItem Content="6"/>
+                            <ComboBoxItem Content="7"/>
+                            <ComboBoxItem Content="8"/>
+                            <ComboBoxItem Content="9"/>
+                            <ComboBoxItem Content="10"/>
+                        </ComboBox>
+                        <Button x:Name="AddGradeButton" Content="Добавить оценку" 
+                                Width="120" Click="AddGradeButton_Click"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
