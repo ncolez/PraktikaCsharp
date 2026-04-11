@@ -1,0 +1,124 @@
+﻿<Window x:Class="z1.AssignmentEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Задание"
+        Height="520"
+        Width="450"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="#FFFFFF">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="TitleTextBlock"
+                   FontSize="20"
+                   FontWeight="SemiBold"
+                   Foreground="#2C3E50"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,25"/>
+
+        <TextBlock Grid.Row="1"
+                   Text="Предмет"
+                   FontSize="12"
+                   Foreground="#7F8C8D"
+                   Margin="0,0,0,5"/>
+
+        <ComboBox x:Name="SubjectCombo"
+                  Grid.Row="2"
+                  Height="38"
+                  FontSize="13"
+                  Padding="10,0"
+                  BorderBrush="#BDC3C7"
+                  BorderThickness="1"
+                  Margin="0,0,0,15"
+                  VerticalContentAlignment="Center"/>
+
+        <TextBlock Grid.Row="3"
+                   Text="Название"
+                   FontSize="12"
+                   Foreground="#7F8C8D"
+                   Margin="0,0,0,5"/>
+
+        <TextBox x:Name="TitleBox"
+                 Grid.Row="4"
+                 Height="38"
+                 FontSize="13"
+                 Padding="10,0"
+                 BorderBrush="#BDC3C7"
+                 BorderThickness="1"
+                 Margin="0,0,0,15"
+                 VerticalContentAlignment="Center"/>
+
+        <TextBlock Grid.Row="5"
+                   Text="Описание"
+                   FontSize="12"
+                   Foreground="#7F8C8D"
+                   Margin="0,0,0,5"/>
+
+        <TextBox x:Name="DescriptionBox"
+                 Grid.Row="6"
+                 Height="80"
+                 FontSize="13"
+                 Padding="10,5"
+                 BorderBrush="#BDC3C7"
+                 BorderThickness="1"
+                 Margin="0,0,0,15"
+                 TextWrapping="Wrap"
+                 AcceptsReturn="True"
+                 VerticalScrollBarVisibility="Auto"/>
+
+        <TextBlock Grid.Row="7"
+                   Text="Срок выполнения"
+                   FontSize="12"
+                   Foreground="#7F8C8D"
+                   Margin="0,0,0,5"/>
+
+        <DatePicker x:Name="DueDatePicker"
+                    Grid.Row="8"
+                    Height="38"
+                    FontSize="13"
+                    BorderBrush="#BDC3C7"
+                    BorderThickness="1"
+                    Margin="0,0,0,25"/>
+
+        <StackPanel Grid.Row="9"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right">
+
+            <Button Content="Отмена"
+                    Width="80"
+                    Height="35"
+                    Margin="0,0,10,0"
+                    Background="#ECF0F1"
+                    Foreground="#7F8C8D"
+                    FontSize="13"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="CancelButton_Click"/>
+
+            <Button Content="Сохранить"
+                    Width="80"
+                    Height="35"
+                    Background="#27AE60"
+                    Foreground="White"
+                    FontSize="13"
+                    FontWeight="SemiBold"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="SaveButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
