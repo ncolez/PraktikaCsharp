@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\grademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\grademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\gradedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\gradedetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\gradedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\gradedetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\chatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\chatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\assignmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\assignmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\assignmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\assignmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\chatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\chatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\chatserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\chatserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\gradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\gradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\assignmenteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\assignmenteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\assignmenteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\assignmenteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\assignmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\assignmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\assignmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\assignmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\gradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\gradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|d:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D3E5C4-03E5-7130-41EC-641DAA4BDB8D}|z1\\z1.csproj|solutionrelative:z1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\StudentModel.cs",
+              "RelativeDocumentMoniker": "z1\\StudentModel.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\StudentModel.cs",
+              "RelativeToolTip": "z1\\StudentModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:00:11.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GradeModel.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeModel.cs",
+              "RelativeDocumentMoniker": "z1\\GradeModel.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeModel.cs",
+              "RelativeToolTip": "z1\\GradeModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:00:40.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeService.cs",
+              "RelativeDocumentMoniker": "z1\\GradeService.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeService.cs",
+              "RelativeToolTip": "z1\\GradeService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:02:58.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "z1\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:05:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeRepository.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeRepository.cs",
+              "RelativeDocumentMoniker": "z1\\GradeRepository.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeRepository.cs",
+              "RelativeToolTip": "z1\\GradeRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T06:25:21.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "z1\\AppDbContext.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AppDbContext.cs",
+              "RelativeToolTip": "z1\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T06:23:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "z1\\StudentViewModel.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\StudentViewModel.cs",
+              "RelativeToolTip": "z1\\StudentViewModel.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAgwO8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:03:29.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "z1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:55:03.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "z1\\DelegateCommand.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\DelegateCommand.cs",
+              "RelativeToolTip": "z1\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:01:28.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GradeDetailsWindow.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\GradeDetailsWindow.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeDetailsWindow.xaml",
+              "RelativeToolTip": "z1\\GradeDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-10T08:09:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssignmentWindow.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\AssignmentWindow.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentWindow.xaml",
+              "RelativeToolTip": "z1\\AssignmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-10T06:18:09.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\UserModel.cs",
+              "RelativeDocumentMoniker": "z1\\UserModel.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\UserModel.cs",
+              "RelativeToolTip": "z1\\UserModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:59:45.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatWindow.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\ChatWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\ChatWindow.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\ChatWindow.xaml",
+              "RelativeToolTip": "z1\\ChatWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:59:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChatServerService.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\ChatServerService.cs",
+              "RelativeDocumentMoniker": "z1\\ChatServerService.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\ChatServerService.cs",
+              "RelativeToolTip": "z1\\ChatServerService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T07:12:01.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GradeDetailsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\GradeDetailsWindow.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeDetailsWindow.xaml.cs",
+              "RelativeToolTip": "z1\\GradeDetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:09:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\MainWindow.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\MainWindow.xaml",
+              "RelativeToolTip": "z1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:55:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignmentWindow.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\AssignmentWindow.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentWindow.xaml.cs",
+              "RelativeToolTip": "z1\\AssignmentWindow.xaml.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwNIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:18:43.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\App.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\App.xaml.cs",
+              "RelativeToolTip": "z1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:06:44.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\LoginWindow.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\LoginWindow.xaml",
+              "RelativeToolTip": "z1\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T10:58:05.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatWindow.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\ChatWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\ChatWindow.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\ChatWindow.xaml.cs",
+              "RelativeToolTip": "z1\\ChatWindow.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:05:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GradeWindow.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\GradeWindow.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeWindow.xaml",
+              "RelativeToolTip": "z1\\GradeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T11:12:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssignmentEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\AssignmentEditWindow.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentEditWindow.xaml.cs",
+              "RelativeToolTip": "z1\\AssignmentEditWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:20:43.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssignmentEditWindow.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentEditWindow.xaml",
+              "RelativeDocumentMoniker": "z1\\AssignmentEditWindow.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentEditWindow.xaml",
+              "RelativeToolTip": "z1\\AssignmentEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-10T06:20:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\NotificationService.cs",
+              "RelativeDocumentMoniker": "z1\\NotificationService.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\NotificationService.cs",
+              "RelativeToolTip": "z1\\NotificationService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:16:58.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssignmentViewModel.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentViewModel.cs",
+              "RelativeDocumentMoniker": "z1\\AssignmentViewModel.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentViewModel.cs",
+              "RelativeToolTip": "z1\\AssignmentViewModel.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAgwM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:17:39.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "z1\\AssignmentService.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentService.cs",
+              "RelativeToolTip": "z1\\AssignmentService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:16:27.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssignmentModel.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentModel.cs",
+              "RelativeDocumentMoniker": "z1\\AssignmentModel.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\AssignmentModel.cs",
+              "RelativeToolTip": "z1\\AssignmentModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:15:44.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GradeWindow.xaml.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z1\\GradeWindow.xaml.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\GradeWindow.xaml.cs",
+              "RelativeToolTip": "z1\\GradeWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:16:07.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\DataService.cs",
+              "RelativeDocumentMoniker": "z1\\DataService.cs",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\DataService.cs",
+              "RelativeToolTip": "z1\\DataService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA8wGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:02:33.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\App.xaml",
+              "RelativeDocumentMoniker": "z1\\App.xaml",
+              "ToolTip": "D:\\tp43\\praktika_csharp_zadaniya\\zanyatie(09.04)\\z1\\App.xaml",
+              "RelativeToolTip": "z1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T11:08:00.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
